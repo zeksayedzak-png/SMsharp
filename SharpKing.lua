@@ -12,7 +12,7 @@ local Camera = workspace.CurrentCamera
 local LocalPlayer = Players.LocalPlayer
 
 -- Configuration
-local circleSize = 50
+local circleSize = 60
 local snapStrength = 1.0 
 local swipeBreakThreshold = 35 
 
